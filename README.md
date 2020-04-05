@@ -16,7 +16,7 @@ $ ./install.sh
 ### Usage
 
 ```shell
-$ PassGenerate [sizeOfPassword]
+$ PhoneFinder
 ```
 ### Other
 
