@@ -6,7 +6,11 @@
 
 echo -e "[\033[0;32m*\033[0m] Installing PhoneFinder..."
 
+sudo mkdir /etc/PhoneFinder
+
 sudo cp dist/PhoneFinder /bin/
+
+sudo cp icon.txt /etc/PhoneFinder/
 
 echo
 

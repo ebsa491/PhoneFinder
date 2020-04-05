@@ -12,7 +12,7 @@ class PhoneFinder:
 
         # figlet used for ASCII
 
-        icon = open('icon.txt', 'r')
+        icon = open('/etc/PhoneFinder/icon.txt', 'r')
 
         icon_contents = icon.read()
 
